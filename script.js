@@ -1,12 +1,12 @@
 let articles = [];
 const articleImages = [
   "https://www.luxcafeclub.com/cdn/shop/articles/240916-coffee-caffeine-heart-health-kh-d4d5cb_1100x.jpg?v=1726678632",
-  "https://via.placeholder.com/600x400?text=Article+2",
-  "https://via.placeholder.com/600x400?text=Article+3",
-  "https://via.placeholder.com/600x400?text=Article+4",
-  "https://via.placeholder.com/600x400?text=Article+5",
-  "https://via.placeholder.com/600x400?text=Article+6",
-  "https://via.placeholder.com/600x400?text=Article+7",
+  "https://thejournal.com/-/media/EDU/CampusTechnology/2024/07/20240719aigroup.jpg",
+  "https://images.squarespace-cdn.com/content/v1/5b338c6bf93fd40cc613354d/1555081593022-3B1H96BW3WP9LAJY7GK6/create-a-community-mural.jpg",
+  "https://daryo.uz/static/2024/08/world-economic-outlook-growth-projections-july-2024-real-gdp-growth-map.png",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCblbIm8NHegOUdPiEkf162bo5l5tVjVpplw&s",
+  "https://devdiscourse.blob.core.windows.net/devnews/27_10_2024_19_25_56_6169737.jpg",
+  "https://static.wixstatic.com/media/11062b_47f82c6f766c4e05b07874cab2d40062~mv2.jpeg/v1/fill/w_1000,h_597,al_c,q_85,usm_0.66_1.00_0.01/11062b_47f82c6f766c4e05b07874cab2d40062~mv2.jpeg",
   "https://via.placeholder.com/600x400?text=Article+8",
   "https://via.placeholder.com/600x400?text=Article+9",
   "https://via.placeholder.com/600x400?text=Article+10"
