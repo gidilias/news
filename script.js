@@ -7,9 +7,9 @@ const articleImages = [
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCblbIm8NHegOUdPiEkf162bo5l5tVjVpplw&s",
   "https://devdiscourse.blob.core.windows.net/devnews/27_10_2024_19_25_56_6169737.jpg",
   "https://static.wixstatic.com/media/11062b_47f82c6f766c4e05b07874cab2d40062~mv2.jpeg/v1/fill/w_1000,h_597,al_c,q_85,usm_0.66_1.00_0.01/11062b_47f82c6f766c4e05b07874cab2d40062~mv2.jpeg",
-  "https://via.placeholder.com/600x400?text=Article+8",
-  "https://via.placeholder.com/600x400?text=Article+9",
-  "https://via.placeholder.com/600x400?text=Article+10"
+  "https://b2259389.smushcdn.com/2259389/wp-content/uploads/2023/10/Garage-Guard-Blog-Thumbnails-9.png?lossy=1&strip=1&webp=1",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsbOsOpjG2EVjYr3ZyMxEHf4f2o-cV-7uTzg&s",
+  "https://www.wfla.com/wp-content/uploads/sites/71/2023/05/GettyImages-1152192651.jpg?w=900"
 ];
 
 fetch('Articles.json')
